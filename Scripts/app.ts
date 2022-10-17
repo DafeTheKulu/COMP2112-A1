@@ -14,5 +14,6 @@
 		console.log("Starting...");
 		LoadHeader();
 	}
+
 	window.addEventListener("load", Start);
 })();
