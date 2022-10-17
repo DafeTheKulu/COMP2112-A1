@@ -1,9 +1,18 @@
 @charset "UTF-8";
 
+/* Increase the font size of the nav links and centre their text */
 .nav-link {
 	font-size: 1.3rem;
+	text-align: center;
 }
 
+/* Give the main body a background colour */
 body {
 	background-color: cornflowerblue;
+}
+
+/* Adjustments for the Fire Site's placeholder icon */
+.fa-fire {
+	color: orangered;
+	font-size: 4rem;
 }
