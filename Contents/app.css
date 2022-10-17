@@ -11,6 +11,9 @@ body {
 	background-color: cornflowerblue;
 }
 
+main {
+	margin-bottom: 200px;
+}
 /* Adjustments for the Fire Site's placeholder icon */
 .fa-fire {
 	color: orangered;
