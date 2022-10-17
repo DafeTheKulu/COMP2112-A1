@@ -1,4 +1,5 @@
 "use strict";
+// Function to double-check form validation and redirect the user to the Bio page if all fields are valid.
 function formValidation() {
     let form = document.querySelector("form");
     if (form["fullName"] != "" &&
